@@ -1,1 +1,1 @@
-# photo-feedback-bot
+# bot.py
